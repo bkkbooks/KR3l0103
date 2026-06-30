@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3l0103/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3l0103/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 還冤志
+  date: '2015-08-24 23:40:45.833487'
+  source:
+    repository: kanripo
+    path: KR3l0103
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0103_000-WYG.yaml, hash: 'sha256:4a01a07e8268089c73c5d45bede41314d8e77080faab5416fb79605c9f12cf6f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0103_000-WYG.markers.yaml, hash: 'sha256:d84466429353a745d080ce06d7a1c01f508536f5b0458eb6874633f9ed842942'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0103_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 441
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3l0103_WYG_000-3a
+    span:
+    - body
+    - 441
+    - 6880
+  label: 還寃志
+  type: section
+  level: 1
+hash: sha256:5de47f66a6f4269a20e45c4ebf713705f19d2c9ebd375bf12fdadd190c9e0bd1

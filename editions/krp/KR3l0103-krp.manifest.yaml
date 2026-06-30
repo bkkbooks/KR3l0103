@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3l0103/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3l0103/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 還冤志
+  date: '2015-08-24 23:40:45.833487'
+  source:
+    repository: kanripo
+    path: KR3l0103
+  base_edition: WYG
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3l0103_000-krp.yaml, hash: 'sha256:ce7c09b0420fc8e7e7d54d8be67ae2fd9dc7d79b152c44de3795a4a1b0cf1fdd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3l0103_000-krp.markers.yaml, hash: 'sha256:ca6f9ebeb7bb72f4f5cdc01047065d3922adf92db03e698e71378fcde57a2ae7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3l0103_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 441
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3l0103_WYG_000-3a
+    span:
+    - body
+    - 441
+    - 6882
+  label: 還寃志
+  type: section
+  level: 1
+hash: sha256:60bdcee34ce16dd4c6c1acb6126e8d31769f9906db6b7fe7b4ab3c17426afa28
