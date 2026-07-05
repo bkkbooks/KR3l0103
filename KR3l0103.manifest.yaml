@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3l0103_001.yaml, hash: 'sha256:817393ef7216bce0561a45dc7883d3971e17569720c039c39a807b317c5a7ee5'}
+  - {seq: 1, filename: KR3l0103_001.yaml, hash: 'sha256:7bf198c652b6ed782fee53d6ee21e9ef741ec0f6af6719536b2d69c8df5013dc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0103_001.markers.yaml, hash: 'sha256:c03252063f9ab3d490f3e97cc8ee4ee954aa1b443b4515cf6e8569785b30fb51'}
+  - {seq: 1, role: markers, filename: assets/KR3l0103_001.markers.yaml, hash: 'sha256:47c33d93686108e566968515984be607241d73f777b88ca31b7a95b573d60309'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 還冤志
   type: section
   level: 1
-hash: sha256:9acf151d6a1db860a1faa23d438fd5fc01f784fc6a20d877bad97034e738c9f9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e4bb136c551d8f36a8a65ff65b1b83591f8df025d587aea0d685625e43ac17b4
