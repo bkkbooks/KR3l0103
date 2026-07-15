@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3l0103/v1
 canonical_location: https://kanripo.org/bkk/KR3l0103/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 還冤記一卷
   identifiers:
@@ -21,9 +21,9 @@ editions:
 - short: krp
 assets:
   parts:
-  - {seq: 1, filename: KR3l0103_001.yaml, hash: 'sha256:7bf198c652b6ed782fee53d6ee21e9ef741ec0f6af6719536b2d69c8df5013dc'}
+  - {seq: 1, filename: KR3l0103_001.yaml, hash: 'sha256:f6dee57eb2e92ff2f185d5fd1a63726cd69b823e83c60163bce49e0d6d3da1d8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3l0103_001.markers.yaml, hash: 'sha256:47c33d93686108e566968515984be607241d73f777b88ca31b7a95b573d60309'}
+  - {seq: 1, role: markers, filename: assets/KR3l0103_001.markers.yaml, hash: 'sha256:ff984151e57ca29357302bfb16135d023b9a4eb971561ba6218b7d57034b933a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,7 @@ table_of_contents:
   label: 還冤志
   type: section
   level: 1
-hash: sha256:e4bb136c551d8f36a8a65ff65b1b83591f8df025d587aea0d685625e43ac17b4
+hash: sha256:cf18a2d9babb1c6edca0e1e13e58b05fcf87425697eb935c8b56ab0c49143f40
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
